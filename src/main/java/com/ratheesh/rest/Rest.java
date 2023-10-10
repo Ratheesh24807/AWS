@@ -10,7 +10,7 @@ public class Rest {
 	@GetMapping("/")
 	public String greet() {
 		
-		return "Hi Dimple Good Morning, Happy Eid-Milad and Happy weekend";
+		return "Hi Dimple Good evening, had your coffe";
 	}
 
 }
